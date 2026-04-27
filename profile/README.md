@@ -1,17 +1,17 @@
 # vmoode
 
-**A antítese do amadorismo digital.**
+**Velocity. Vision. Value.**
 
-Somos um ateliê de engenharia digital de alta performance focado na criação de ativos exclusivos. Rejeitamos plataformas lentas como WordPress e a superficialidade dos sites genéricos gerados por IA. Entregamos código puro, design premium e engenharia focada em lucro real.
+Onde o mercado entrega templates rápidos, nós construímos exclusividade. Ativos digitais desenvolvidos passo a passo, seguindo cada regra para garantir máxima qualidade e resultado.
 
 ### O Nosso DNA
 - **Velocity:** Fluidez instantânea. Sites que respondem antes do usuário piscar.
 - **Vision:** Design minimalista e intencional, desenhado por humanos para humanos.
 - **Value:** Ativos digitais estruturados para converter visitantes em clientes.
 
-### O que construímos
+### O que Construímos
 - ⚡ **Landing Pages:** Alta conversão com arquitetura livre de lentidão.
-- 🌐 **Sites Institucionais:** Ecossistemas robustos e autoridade em código puro.
+- 🌐 **Sites Institucionais:** Ecossistemas robustos que podem ser escalados no futuro.
 - 📊 **Data Tracking:** Decisões baseadas em ROI com GTM e GA4.
 - 🔎 **SEO Técnico:** Otimização estrutural para dominar as buscas orgânicas.
 
@@ -19,6 +19,6 @@ Somos um ateliê de engenharia digital de alta performance focado na criação d
 Construímos a sua fundação com tecnologia de elite:
 `Nuxt 4` • `Vue.js` • `Vite` • `Tailwind CSS v4` • `TypeScript`
 
-### Fale com a Engenharia
+### Fale Conosco
 - 🌐 **Website:** [vmoode.com](https://vmoode.com)
 - 📧 **E-mail:** dev@vmoode.com
