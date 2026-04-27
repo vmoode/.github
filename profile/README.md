@@ -21,5 +21,4 @@ Construímos a sua fundação com tecnologia de elite:
 
 ### Fale com a Engenharia
 - 🌐 **Website:** [vmoode.com](https://vmoode.com)
-- 💬 **WhatsApp:** [+55 51 92003-9698](https://wa.me/5551920039698)
 - 📧 **E-mail:** dev@vmoode.com
